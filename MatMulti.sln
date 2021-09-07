@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatMulti", "MatMulti\MatMulti.csproj", "{3C07F34C-E4F6-43CF-9DE7-FEAADFBC9E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C07F34C-E4F6-43CF-9DE7-FEAADFBC9E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C07F34C-E4F6-43CF-9DE7-FEAADFBC9E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C07F34C-E4F6-43CF-9DE7-FEAADFBC9E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C07F34C-E4F6-43CF-9DE7-FEAADFBC9E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B120FD-86F8-4ED8-BD78-01AAF471FD13}
+	EndGlobalSection
+EndGlobal
